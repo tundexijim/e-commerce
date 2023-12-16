@@ -55,6 +55,7 @@ const NavBar = () => {
           <Link href="/">
             <Typography
               variant="h6"
+              // color="inherit"
               noWrap
               component="div"
               sx={{ display: { xs: "none", sm: "block" } }}

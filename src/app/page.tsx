@@ -1,6 +1,6 @@
 "use client";
-import NavBar from "@/components/NavBar";
 import Link from "next/link";
+import NavBar from "@/components/NavBar";
 import { useEffect, useState } from "react";
 const data = [
   {
